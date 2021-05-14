@@ -1,0 +1,29 @@
+
+#btn-group{
+    display: flex;
+}
+.group{
+    display: inline;
+}
+.btn-input{
+    background-color: honeydew;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+#btn-create{
+    margin: 15px;
+}
+#table{
+    width: 800px;
+    height: 900px;
+    background-color: gray;
+    display: grid;
+    margin: 15px;
+}
+.box{
+    
+    border: 2px solid white;
+}
+.aler{
+    display: none;
+}
